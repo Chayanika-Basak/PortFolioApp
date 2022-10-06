@@ -8,6 +8,6 @@ This is a portfolio app having two pages and two separate fonts added.
 ![Icon](https://user-images.githubusercontent.com/84329719/194370125-ad5900fb-73d2-495d-976c-45ab74333afd.png)
 ![IconZoomed](https://user-images.githubusercontent.com/84329719/194370173-ffaff906-b738-4db5-a78d-01aad31830a0.png)
 ![HomePage](https://user-images.githubusercontent.com/84329719/194370193-f19b906d-3944-4c79-87af-1119ca1ece74.png)
-<img width="275" alt="image" src="https://user-images.githubusercontent.com/84329719/194370470-7b4cd77b-dc5c-4739-862b-122b89a9f606.png">
+![ProjectsPage](https://user-images.githubusercontent.com/84329719/194370814-02b0d948-1c8f-4a71-aa07-29b5458e1028.png)
 
 
