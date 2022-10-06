@@ -5,7 +5,7 @@ This is a portfolio app having two pages and two separate fonts added.
 
 ## Screenshots
 
-![alt text]("C:\Users\asus\Desktop\IGDTUW\Societies\GDSC\portfolio\images\Icon.png")
-![alt text]("C:\Users\asus\Desktop\IGDTUW\Societies\GDSC\portfolio\images\IconZoomed.png")
-![alt text]("C:\Users\asus\Desktop\IGDTUW\Societies\GDSC\portfolio\images\HomePage.png")
+![alt text]("portfolio\images\Icon.png")
+![alt text]("portfolio\images\IconZoomed.png")
+![alt text]("portfolio\images\HomePage.png")
 
