@@ -5,7 +5,7 @@ This is a portfolio app having two pages and two separate fonts added.
 
 ## Screenshots
 
-![alt text]("portfolio\images\Icon.png")
-![alt text]("portfolio\images\IconZoomed.png")
-![alt text]("portfolio\images\HomePage.png")
+![alt text]("images\Icon.png")
+![alt text]("images\IconZoomed.png")
+![alt text]("images\HomePage.png")
 
